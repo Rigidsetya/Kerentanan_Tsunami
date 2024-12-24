@@ -60,8 +60,6 @@
                     </li>
                     <li><a class="nav-link scrollto {{ $title === 'Project' ? 'active' : '' }}"
                             href="/project">Projects</a></li>
-                    <li><a class="nav-link scrollto {{ $title === 'Our Team' ? 'active' : '' }}" href="/team">Team</a>
-                    </li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->

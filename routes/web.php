@@ -29,8 +29,3 @@ Route::get('/project', function () {
         "title" => "Project"
     ]);
 });
-Route::get('/team', function () {
-    return view('team', [
-        "title" => "Our Team"
-    ]);
-});
